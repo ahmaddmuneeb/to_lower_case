@@ -1,0 +1,8 @@
+{
+  "name": "to_lower_case",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ahmaddmuneeb/to_lower_case.git",
+  "author": "ahmaddmuneeb <ahmaddmuneeb786@gmail.com>",
+  "license": "MIT"
+}
